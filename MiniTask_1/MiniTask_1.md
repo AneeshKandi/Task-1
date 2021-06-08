@@ -4,4 +4,6 @@ Here are the 15 projects:-
 - Age and Gender detection
 - Speed/Radar Gun
 - Finger print reader
+- Airbag in Cars
+- Robotic Arm
 - 
