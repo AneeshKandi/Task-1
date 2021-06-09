@@ -9,5 +9,31 @@ This project is basically an application of __Internet of Things__ or **IoT**. T
 
 Here is a summarized form of how IoT works:
 
+![](images/IOT-Components-1.jpg)
 
 In this project, the ESP32 board and telegram bot are connected via IoT.
+
+## Components Required
+
+This simple project can be done at our homes easily if we have these components:
+### Hardware Requirement
+
+1. ESP32 board
+2. Smart Phone with Telegram app installed
+
+### Software Requirement
+
+1. Arduino IDE
+2. Applicable softwares
+
+## The Project
+
+We start by creating a bot in Telegram. Bots are third-party applications that run inside Telegram. Users can interact with bots by sending them messages, commands and inline requests. You control your bots using HTTPS requests to Telegram Bot API. To know more about Bots and how to create them, refer https://core.telegram.org/bots.
+The ESP32 will interact with the Telegram bot to receive and handle the messages, and send responses.
+
+After creating the Bot, we need install required Libraries in the Arduino IDE. 2 Libraries - Universal Telegram Bot Library, ArduinoJson Library. That's it! Now code the ESP32 and have fun :)
+
+For the complete project, visit : https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
+
+
+
