@@ -9,3 +9,6 @@ variations to create interesting colors.
 
 The basic concept is using additive colors to change the R B G values of the LED strip. Each value is controlled by a different trick. just popping the board up (like an ollie)
 represents blue. A kickflip represents red, and a shuvit represents green. Each time a trick is performed 10 is added to the respective R B G value.
+
+![360flip_fix](https://user-images.githubusercontent.com/85028192/121384007-837fc200-c965-11eb-9502-7ece8655c1c7.gif)
+
