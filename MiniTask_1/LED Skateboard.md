@@ -32,5 +32,6 @@ Behind the Skateboard, the LED Strips and rails are soldered and glued. Then the
 
 <img width = "500" src="https://user-images.githubusercontent.com/85028192/121397648-28a09780-c972-11eb-8765-7261b87087a6.png"/> <img height = "500" width = "450" src="https://user-images.githubusercontent.com/85028192/121397800-4ec63780-c972-11eb-8881-d157cbf63bac.png"/>
 
+## Code
 
-
+https://github.com/mileslew/LED-Skateboard-gyro/blob/main/LED-skatreboard
