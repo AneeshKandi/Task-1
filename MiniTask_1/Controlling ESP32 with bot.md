@@ -31,7 +31,11 @@ This simple project can be done at our homes easily if we have these components:
 We start by creating a bot in Telegram. Bots are third-party applications that run inside Telegram. Users can interact with bots by sending them messages, commands and inline requests. You control your bots using HTTPS requests to Telegram Bot API. To know more about Bots and how to create them, refer https://core.telegram.org/bots.
 The ESP32 will interact with the Telegram bot to receive and handle the messages, and send responses.
 
-After creating the Bot, we need install required Libraries in the Arduino IDE. 2 Libraries - Universal Telegram Bot Library, ArduinoJson Library. That's it! Now code the ESP32 and have fun :)
+After creating the Bot, we need install required Libraries in the Arduino IDE. 2 Libraries 
+- Universal Telegram Bot Library
+- ArduinoJson Library. 
+
+That's it! Now code the ESP32 and have fun :)
 
 For the complete project, visit : https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
 
