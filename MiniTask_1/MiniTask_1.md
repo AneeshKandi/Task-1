@@ -1,9 +1,11 @@
 Here are the 15 projects:-
-- IoT based(Temperature sensor)
+
+- Controlling ESP32 with Telegram Bot
 - LED Skateboard
 - Age and Gender detection
 - Speed/Radar Gun
 - Finger print reader
 - Airbag in Cars
 - Robotic Arm
+- Rain water alarm
 - 
