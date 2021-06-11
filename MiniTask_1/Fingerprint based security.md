@@ -32,6 +32,7 @@ A fingerprint is an impression left by the friction ridges of a human finger. Op
 ## The Project
 
 The block diagram for the entire process:
+
 ![image](https://user-images.githubusercontent.com/85028192/121734475-718f5200-cb12-11eb-8ca3-16b07a24206c.png)
 
 With the help of the push buttons, we can select the options. We can either "enter" new fingerprints, "Del" old fingerprints, etc. Once the authenticated user's fingerprint is stored, the user can try to open the door lock using his fingerprint now. The optical scanner will produce a personal code made up of 0s and 1s. Then the code is checked with authenticated users' fingerprint codes. Depending on the code, a suitable message is sent to the user via the LCD Display and the microcontroller sends a signal to the servo motor for the required action to be done.
