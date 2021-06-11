@@ -28,6 +28,7 @@ A servomotor is a rotary actuator or linear actuator that allows for precise con
 A fingerprint is an impression left by the friction ridges of a human finger. Optical fingerprint sensors have been around for a while. The way an optical scanner works is by shining a bright light over your fingerprint and taking a digital photo. The light-sensitive microchip makes the digital image by looking at the ridges and valleys of the fingerprint, turning them into 1’s and 0’s, and creates the user’s own personal code. 
 
 <img align = "center" height = 500 width = 500 src = "https://user-images.githubusercontent.com/85028192/121733613-5708a900-cb11-11eb-85a9-0ddb72fcf322.png">
+![image](https://user-images.githubusercontent.com/85028192/121735727-27a76b80-cb14-11eb-99d8-0069c05d4da6.png)
 
 ## The Project
 
@@ -35,4 +36,8 @@ The block diagram for the entire process:
 
 ![image](https://user-images.githubusercontent.com/85028192/121734475-718f5200-cb12-11eb-8ca3-16b07a24206c.png)
 
-With the help of the push buttons, we can select the options. We can either "enter" new fingerprints, "Del" old fingerprints, etc. Once the authenticated user's fingerprint is stored, the user can try to open the door lock using his fingerprint now. The optical scanner will produce a personal code made up of 0s and 1s. Then the code is checked with authenticated users' fingerprint codes. Depending on the code, a suitable message is sent to the user via the LCD Display and the microcontroller sends a signal to the servo motor for the required action to be done.
+With the help of the push buttons, we can navigate through the different options available. We can either "enter" new fingerprints, "Del" old fingerprints, etc. Once the authenticated user's fingerprint is stored, the user can try to open the door lock using his fingerprint now. The optical scanner will produce a personal code made up of 0s and 1s. Then the code is checked with authenticated users' fingerprint codes. Depending on the code, a suitable message is sent to the user via the LCD Display and the microcontroller sends a signal to the servo motor for the required action to be done.
+
+## Schematics
+
+![image](https://user-images.githubusercontent.com/85028192/121735961-7bb25000-cb14-11eb-85fc-de5eca571e7b.png)
