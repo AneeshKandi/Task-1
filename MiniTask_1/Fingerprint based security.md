@@ -2,7 +2,7 @@
 
 Biometric systems have overtime served as robust security mechanisms in various domains. Fingerprints are the oldest and most widely used form of biometric identification. The use of fingerprint for identification has been employed in law enforcement for about a century. A much broader application of fingerprint is for personal authentication, for instance to access a computer, a network, an ATM machine, a car or a home.
 
-Human fingerprints are detailed, nearly unique, difficult to alter, and durable over the life of an individual, making them suitable as long-term markers of human identity. This fact can be utilized in the security systems. In this project, we will be developing a door lock system using Fingerprint technology.
+Human fingerprints are detailed, nearly unique, difficult to alter, and durable over the life of an individual, making them suitable as long-term markers of human identity. This fact can be utilized in the security systems. In this project, we will be creating a door lock system using Fingerprint technology.
 
 ## Hardware Components
 
@@ -15,7 +15,7 @@ Human fingerprints are detailed, nearly unique, difficult to alter, and durable 
 7. Buzzer
 8. DHT Sensor(Temperature and Humidity)
 9. Potentiometer
-10. Push Button
+10. Push Buttons
 
 ## What is a Servo Motor?
 
