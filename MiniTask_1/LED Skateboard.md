@@ -16,6 +16,14 @@ represents blue. A kickflip represents red, and a shuvit represents green. Each 
 
 To sense the trick being performed, we use the values of the Accelerometer and Gyroscope. The MPU-6050 module contains the 3-axis accelerometer and 3-axis gyroscope. The accelerometer measures the x,y,z acceleration whereas the gyroscope measures the angular velocity along x, y, z direction i.e (roll, pitch, yaw).
 
+## Accelerometer and Gyroscope
+
+Accelerometer works on a simple principle - detect the mechanical motion and generate an electric signal corresponding to it. The sensor can be thought of a cubical box with a ball inside it. The mechanical motion of the ball is made to produce an analog electrical signal which is then converted to a digital value. The sensors are made of special materials such as Lead Zirconate Titanate.
+
+Gyroscope works on the principle of generating potential difference using rotation. The Vibration Gyroscope sensor consists of a double-T structure element. There is a drive arm that rotates in a particular direction. The drive arms are attached to the sensing arms. When the Vibration Gyroscopic Sensor is rotated, the Coriolis effect or the Coriolis force will start to work on the drive arms. The vibration of the drive arms causes motion in the pair of sensing arms of the gyro which will generate a potential difference  from the angular velocity which has been sensed by the device. We can then convert the angular velocity to electrical signals. 
+
+![image](https://user-images.githubusercontent.com/85028192/121737858-0e53ee80-cb17-11eb-81f6-410de3649147.png)
+
 ## Components Required
 
 1. The New Deal Deck rails
