@@ -11,6 +11,12 @@ In this system, we will use IR sensors to measure the traffic density. We have t
 3. LED lights (replacing traffic lights)
 4. 12V Battery
 
+## IR Sensors
+
+An infrared (IR) sensor is an electronic device that measures and detects infrared radiation in its surrounding environment. Active IR sensors have two parts: a light emitting diode (LED) and a receiver. When an object comes close to the sensor, the infrared light from the LED reflects off of the object and is detected by the receiver. Based on the intensity of the reception by the IR receiver, the output of the sensor defines. Active IR sensors act as proximity sensors, and they are commonly used in obstacle detection systems.
+
+![image](https://user-images.githubusercontent.com/85028192/121785869-014c0380-cbda-11eb-8278-61e76bc8b927.png)
+
 ## The Project
 
 All the sensors and traffic lights are connected to the Microcontroller. If there is a traffic on a particular road, then that particular sensor output becomes logic 0 otherwise logic 1. By receiving these IR sensor outputs, we have to program the microcontroller to control the traffic system. If you receive logic 0 from any of these sensors, we have to give the green signal to that particular path and give red signal to all other paths. Here continuously we have to monitor the IR sensors to check for the traffic.
