@@ -8,5 +8,6 @@ Here are the 15 projects:-
 - Airbag in Cars
 - Robotic Arm
 - Rain water alarm
-- Magic 8Ball
+- Magic 8-Ball
+- GPS based Tracking System
 - 
