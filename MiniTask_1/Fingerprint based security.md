@@ -27,7 +27,7 @@ A servomotor is a rotary actuator or linear actuator that allows for precise con
 
 A fingerprint is an impression left by the friction ridges of a human finger. Optical fingerprint sensors have been around for a while. The way an optical scanner works is by shining a bright light over your fingerprint and taking a digital photo. The light-sensitive microchip makes the digital image by looking at the ridges and valleys of the fingerprint, turning them into 1’s and 0’s, and creates the user’s own personal code. 
 
-<img align = "left" height = 450 width = 450 src = "https://user-images.githubusercontent.com/85028192/121733613-5708a900-cb11-11eb-85a9-0ddb72fcf322.png">
+<img align = "left" height = 450 width = 470 src = "https://user-images.githubusercontent.com/85028192/121733613-5708a900-cb11-11eb-85a9-0ddb72fcf322.png">
 <img align = "right" height = "450" width= "450" src="https://user-images.githubusercontent.com/85028192/121735727-27a76b80-cb14-11eb-99d8-0069c05d4da6.png">
 
 ## The Project
