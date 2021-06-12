@@ -9,3 +9,4 @@ Here are the 15 projects:-
 - Rain water alarm
 - Magic 8-Ball
 - GPS based Tracking System
+- Fire Fighting Bot
