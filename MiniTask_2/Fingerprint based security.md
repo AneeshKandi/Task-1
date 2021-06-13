@@ -23,3 +23,23 @@ The servo motor have few disadvantages but it is good enough for door opening pr
 For fingerprint sensors, using advanced and latest sensors which can detect even with dry and wet hands is to be used. 
 
 ## Prototype
+
+The components required are:
+1. Arduino Mega
+2. Servo Motor
+3. Fingerprint Sensor
+4. 9V Battery
+5. LED
+6. LCD Display
+7. Buzzer
+8. DHT Sensor(Temperature and Humidity)
+9. Potentiometer
+10. Push Buttons
+
+Schematics:
+
+![image](https://user-images.githubusercontent.com/85028192/121735961-7bb25000-cb14-11eb-85fc-de5eca571e7b.png)
+
+## Code
+
+https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_2/fingerprint_code.ino
