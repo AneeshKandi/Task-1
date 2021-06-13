@@ -26,4 +26,8 @@ If the board heats up and gets burned in a short time, then it is better to chec
 
 ### Testing the Servo motor
 
-First test it with arduino directly if it is moving accurately and the positions are properly matched.
+First test it with arduino directly if it is moving accurately and the positions are properly matched. We can follow this [tutorial](https://www.instructables.com/Servo-Motor-Tester/) to test the Servo motor.
+
+Now connect all the components properly and now start debugging the code.
+
+
