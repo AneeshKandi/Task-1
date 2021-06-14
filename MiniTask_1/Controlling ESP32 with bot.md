@@ -9,7 +9,11 @@ This project is basically an application of __Internet of Things__ or **IoT**. T
 
 Here is a summarized form of how IoT works:
 
-![](images/IOT-Components-1.jpg)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/85028192/121926552-b3f79f80-cd5b-11eb-8dde-0f0175dbab86.png" width="400" height="400"/>
+    <br/>
+    <sub><sup>© 2019, licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</sup></sub>
+</div>
 
 In this project, the ESP32 board and telegram bot are connected via IoT.
 
