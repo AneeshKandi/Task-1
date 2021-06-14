@@ -12,3 +12,4 @@ Here are the 15 projects:-
 - [Fire Fighting Bot](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/Fire%20Fighting%20Bot.md)
 - [Traffic Control](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/Traffic%20Control.md)
 - [Infrared Thermometer](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/Infrared%20Thermometer.md)
+- [Radar Speed Gun](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/speed%20gun.md)
