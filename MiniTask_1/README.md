@@ -11,3 +11,4 @@ Here are the 15 projects:-
 - [GPS based Tracking System](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/GPS%20based%20tracking%20system.md)
 - [Fire Fighting Bot](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/Fire%20Fighting%20Bot.md)
 - [Traffic Control](https://github.com/AneeshKandi/Task-1/blob/main/MiniTask_1/Traffic%20Control.md)
+- Infrared Thermometer
