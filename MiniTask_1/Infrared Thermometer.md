@@ -24,7 +24,7 @@ MLX90614 sensor is manufactured by Melexis Microelectronics Integrated system. T
 
 ## The Project
 
-The sensor is connected with the Arduino board. The sensor uses I2C communication interface. The readings from sensor is communicated to the board which then displays to the user using the OLED Display.
+The sensor is connected with the Arduino board. The sensor uses [I2C](https://en.wikipedia.org/wiki/I%C2%B2C) communication interface. The readings from sensor is communicated to the board which then displays to the user using the OLED Display.
 
 For the code, we need to install the Adafruit library for MLX90614 which makes the code very simple. Here is the circuit diagram:
 
